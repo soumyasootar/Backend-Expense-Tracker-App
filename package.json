@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/soumyasootar/Backend-Expense-Tracker-App/issues"
   },
-  "homepage": "https://github.com/soumyasootar/Backend-Expense-Tracker-App#readme"
+  "homepage": "https://github.com/soumyasootar/Backend-Expense-Tracker-App#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
 }
