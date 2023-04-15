@@ -23,6 +23,12 @@
       "email": "john@example.com",
       "password": "password",
       "id": 4
+    },
+    {
+      "fullName": "soumya",
+      "email": "soumya@example.com",
+      "password": "1236",
+      "id": 5
     }
   ],
   "transactions": [
